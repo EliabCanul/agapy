@@ -265,7 +265,7 @@ class Agapy:
 			# Sort 
 			fun, population = self.sort(values, population)
 
-			# Check convergency 
+			# Check convergence
 			# TODO write convergence criteria
 			
 			# Update the boundaries length
