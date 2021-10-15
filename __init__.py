@@ -1,2 +1,4 @@
 # Nuevo
-from .agapy import agapy
+from .agapy import Agapy
+
+__author__ = 'Eliab F. Canul'
